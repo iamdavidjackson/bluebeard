@@ -1,0 +1,29 @@
+{
+  "name": "bluebeard",
+  "version": "1.0.0",
+  "description": "Promise based action and filter hooks for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdavidjackson/bluebeard.git"
+  },
+  "keywords": [
+    "bluebird",
+    "node",
+    "promise",
+    "action",
+    "hook"
+  ],
+  "author": "David Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdavidjackson/bluebeard/issues"
+  },
+  "homepage": "https://github.com/iamdavidjackson/bluebeard#readme",
+  "dependencies": {
+    "bluebird": "^2.10.2"
+  }
+}
